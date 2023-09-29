@@ -1,0 +1,31 @@
+.movie-list-item-button {
+    padding: 10px;
+    
+    background-color: hsl(197, 97%, 41%);
+    color: rgb(228, 228, 228);
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    bottom: 20px;
+    left: 50px;
+    opacity: 0;
+    transition: 1s all ease-in-out;
+  }
+  span.ytdl-handle-btn {
+    
+    display: none;
+    height: 16px;
+    width: 16px;
+    margin-left: 8px;
+
+  }
+  .reserve-img{
+   background-color: hsl(192, 13%, 8%);
+    height: 58vh;
+    width: 27vw;
+    border:10px solid #00b1f7;
+    border-radius: 10px
+} 
+
